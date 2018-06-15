@@ -13,7 +13,7 @@
   - *The ability to search positions accept juniors*
   - *More networking, in order to make more friends in this industry*
   - *Demonstrate myself more effitiontely?*
-
+  - *It is chanlenge to write great cover letter*
 
 ## Plan
 
@@ -21,12 +21,13 @@
 
 - Determine what steps you can take to further develop each area identified in your answers. Add a Plan section to your README. Add description or list outlining how you can work toward improving these areas, and commit.
 
-  ### I am planning to do this in the comming days
+  ### I am planning to do these in the comming days
 
   - *Read more books about python and programming in general*
   - *Make two or more full-stack apps*
   - *Bloging to document my learning*
   - *Working on an open source project syster(vms)*
+  - *Search more cover letter templates*
 
 
 ## Work
@@ -35,6 +36,7 @@
 
 - What do we mean by "corresponding materials or content"? Just the tangible stuff associated with each activity. For instance, if you watched a YouTube tutorial series on interview tips, or an advanced technical concept, link it! If you researched and signed up for an event to help better network, include a screenshot of your ticket. If you built an app to help you practice, include the project in the repository. If you wrote a blog post or further refined your cover letters, include the text files here in your repository. You get the picture!
 
+- [Updated my linkin](https://www.linkedin.com/in/adrianacmy/)
 
 
 ## Reflection & Next Steps
