@@ -38,7 +38,8 @@
 
 - [Updated my linkin](https://www.linkedin.com/in/adrianacmy/)
 - [Updated git repos](https://github.com/Adrianacmy?tab=repositories)
-- [Find the open source project I am going to work on](https://github.com/systers/vms)
+- [Find the open source project I am going to work on and find a bug on their live demo](https://github.com/systers/vms)
+![bug](bug.png)
 
 
 ## Reflection & Next Steps
