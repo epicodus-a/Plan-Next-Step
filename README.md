@@ -38,6 +38,7 @@
 
 - [Updated my linkin](https://www.linkedin.com/in/adrianacmy/)
 - [Updated git repos](https://github.com/Adrianacmy?tab=repositories)
+- [Find the open source project I am going to work on](https://github.com/systers/vms)
 
 
 ## Reflection & Next Steps
