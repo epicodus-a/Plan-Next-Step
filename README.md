@@ -37,6 +37,7 @@
 - What do we mean by "corresponding materials or content"? Just the tangible stuff associated with each activity. For instance, if you watched a YouTube tutorial series on interview tips, or an advanced technical concept, link it! If you researched and signed up for an event to help better network, include a screenshot of your ticket. If you built an app to help you practice, include the project in the repository. If you wrote a blog post or further refined your cover letters, include the text files here in your repository. You get the picture!
 
 - [Updated my linkin](https://www.linkedin.com/in/adrianacmy/)
+- [Updated git repos](https://github.com/Adrianacmy?tab=repositories)
 
 
 ## Reflection & Next Steps
