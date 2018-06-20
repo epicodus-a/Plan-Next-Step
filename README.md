@@ -21,14 +21,14 @@
 
 - Determine what steps you can take to further develop each area identified in your answers. Add a Plan section to your README. Add description or list outlining how you can work toward improving these areas, and commit.
 
-  ### I am planning to do these in the comming days
+### I am planning to do these in the comming days
 
   - *Read more books about python and programming in general*
   - *Make two or more full-stack apps*
   - *Bloging to document my learning*
   - *Working on an open source project syster(vms)*
   - *Search more cover letter templates*
-
+  
 
 ## Work
 
@@ -40,6 +40,7 @@
 - [Updated git repos](https://github.com/Adrianacmy?tab=repositories)
 - [Find the open source project I am going to work on and find a bug on their live demo](https://github.com/systers/vms)
 ![bug](bug.png)
+- [Cover letter](https://docs.google.com/document/d/1Gs0GIPU-eh3nldlXUul0J2U_SieXgPWaIJ6t7YZrnJQ/edit?usp=sharing)
 
 
 ## Reflection & Next Steps
