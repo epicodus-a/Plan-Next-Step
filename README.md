@@ -9,10 +9,11 @@
   ### I am unprepared on below topics:
 
   - *Foundamental knowledges of languages and frameworks in general*
+    - *In the last few month, I have learnt and worked with a few frameworks, but not understand them why do them work certain way, I am planning to read their source code more.*
   - *Some interesting projects*
+    - *I have been making small toy projects, but personally fell none of them are great enough to represent myself, then I am trying to plan better on next one*  
   - *The ability to search positions accept juniors*
   - *More networking, in order to make more friends in this industry*
-  - *Demonstrate myself more effitiontely?*
   - *It is chanlenge to write great cover letter*
 
 ## Plan
