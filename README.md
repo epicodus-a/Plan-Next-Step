@@ -47,4 +47,10 @@
 
 - Do you feel like you made improvement today? Are you more confident and comfortable in one or more areas? Why or why not?
 
+- *Yes, what I did help me sort out my mind.*
+
 - Where are you at now? What are your next steps? What do you still need to accomplish to feel confident and prepared to begin your eventual job search?
+
+- *I started my personal and opend source projects.*
+- *The next step is keep working on them.*
+- *Keep adding features and polishing projects will add more confidence on me*
